@@ -7,6 +7,9 @@ this is recipe file
 
 5.chicken
 
+6.momos
+7.soup
+
 Thank you!
 
 
